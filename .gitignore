@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+.DS_Store
+.claude/settings.local.json
+
+# Personal agent setup (kept local)
+AGENTS.md
+CLAUDE.md
+PROGRESS.md
+.claude/
+.codex/
+.agents/
